@@ -1,0 +1,15 @@
+stepdefinition/SharedSD.class
+util/ConfigReader.class
+framework/mobile_pages/LoginPage.class
+framework/web_pages/HomePage.class
+framework/TestRunner.class
+framework/web_pages/sauce.class
+framework/web_pages/HotelsHomePage.class
+framework/mobile_pages/LandingPage.class
+stepdefinition/MobileLoginSD.class
+framework/AppiumWrapper.class
+framework/web_pages/LoginPage.class
+stepdefinition/HotelsSD.class
+framework/MobileBasePage.class
+stepdefinition/LoginSD.class
+framework/BasePage.class
